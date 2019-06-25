@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/jianshu/static/js/main.2fb61f9a.chunk.js",
-    "main.js.map": "/jianshu/static/js/main.2fb61f9a.chunk.js.map",
-    "runtime~main.js": "/jianshu/static/js/runtime~main.df36484a.js",
-    "runtime~main.js.map": "/jianshu/static/js/runtime~main.df36484a.js.map",
-    "static/js/2.53845d00.chunk.js": "/jianshu/static/js/2.53845d00.chunk.js",
-    "static/js/2.53845d00.chunk.js.map": "/jianshu/static/js/2.53845d00.chunk.js.map",
-    "static/js/3.b400f030.chunk.js": "/jianshu/static/js/3.b400f030.chunk.js",
-    "static/js/3.b400f030.chunk.js.map": "/jianshu/static/js/3.b400f030.chunk.js.map",
-    "index.html": "/jianshu/index.html",
-    "precache-manifest.4e07189842d45bcbb77d130b68389422.js": "/jianshu/precache-manifest.4e07189842d45bcbb77d130b68389422.js",
-    "service-worker.js": "/jianshu/service-worker.js",
-    "static/media/img-code.png": "/jianshu/static/media/img-code.402413e7.png"
+    "main.js": "/jianshu/build/static/js/main.2fb61f9a.chunk.js",
+    "main.js.map": "/jianshu/build/static/js/main.2fb61f9a.chunk.js.map",
+    "runtime~main.js": "/jianshu/build/static/js/runtime~main.b8929f69.js",
+    "runtime~main.js.map": "/jianshu/build/static/js/runtime~main.b8929f69.js.map",
+    "static/js/2.f10cb0e0.chunk.js": "/jianshu/build/static/js/2.f10cb0e0.chunk.js",
+    "static/js/2.f10cb0e0.chunk.js.map": "/jianshu/build/static/js/2.f10cb0e0.chunk.js.map",
+    "static/js/3.b400f030.chunk.js": "/jianshu/build/static/js/3.b400f030.chunk.js",
+    "static/js/3.b400f030.chunk.js.map": "/jianshu/build/static/js/3.b400f030.chunk.js.map",
+    "index.html": "/jianshu/build/index.html",
+    "precache-manifest.6b42ded809f80ab0ff66972e4180a1ea.js": "/jianshu/build/precache-manifest.6b42ded809f80ab0ff66972e4180a1ea.js",
+    "service-worker.js": "/jianshu/build/service-worker.js",
+    "static/media/img-code.png": "/jianshu/build/static/media/img-code.402413e7.png"
   }
 }
